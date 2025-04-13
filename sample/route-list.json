@@ -1,0 +1,7 @@
+{
+  "route-keys": [
+    "service-a",
+    "service-b",
+    "service-c"
+  ]
+}
